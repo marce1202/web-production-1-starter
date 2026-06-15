@@ -1,5 +1,13 @@
 /*for CSS comments are like this */
-
+/*budy is the withe background*/
 body{
 	background-color: Cyan;
+}
+
+P {
+	background-color: hotpink;
+	 font-size: 24pt;
+	 /* color is text color */
+	 color: white;
+
 }
